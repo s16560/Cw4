@@ -1,5 +1,4 @@
-﻿
-namespace Cw4
+﻿namespace Cw4
 {
     public class Student
     {       
@@ -9,4 +8,5 @@ namespace Cw4
         public string Name { get; set; }
         public string Semester { get; set; }
     }
+
 }
